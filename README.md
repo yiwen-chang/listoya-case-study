@@ -99,6 +99,14 @@ Worked on selected frontend flows related to:
  - Services
  - Marketplace interactions
 
+## Problem
+
+In Paraguay and many local markets, job and service opportunities are often shared through informal channels such as word of mouth, social media, or messaging apps. This makes it harder for companies to find suitable candidates and for individuals to discover reliable opportunities in one organized place.
+
+## Solution
+
+ListoYA provides a mobile-first platform where Persona and Empresa users can publish, discover, apply to, and manage jobs, tasks, services, and company-related opportunities.
+
 ### Development Experience
 
 During the project, I worked with:
